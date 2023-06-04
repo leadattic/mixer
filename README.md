@@ -1,2 +1,2 @@
-# mixer
-A virtual audio mixer
+# Mixer
+A virtual audio mixer made in python
