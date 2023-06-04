@@ -1,0 +1,6 @@
+{
+  "port": 6969,
+  "1":{"gain":  1,
+    "echo": false, "reverb": false
+  }
+}
